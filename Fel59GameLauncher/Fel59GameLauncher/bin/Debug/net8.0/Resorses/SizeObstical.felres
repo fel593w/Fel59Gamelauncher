@@ -1,0 +1,9 @@
+name SizeObstical
+latestVersion 001
+backgroundImage ImRes_SizeObsticalCover
+description WARNING! the web build may have buggs, i would recomend using the windows build if you are on a compateble device.you're a playtester in a early build of a game and theres some bugs that needs to be "fixed" with a scale tool. and there are some bugs left.
+author Felix_Wahlgren
+githubDownload SizeObstical.zip
+execution Build\SizeObstical.exe
+itch https://fel59.itch.io/siob
+

@@ -1,0 +1,375 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Projects\\Github\\Fel59Gamelauncher\\Fel59GameLauncher\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E608295-7899-4460-81A4-73CF5A64A24A}|Fel59GameLauncher\\Fel59GameLauncher.csproj|e:\\projects\\github\\fel59gamelauncher\\fel59gamelauncher\\fel59gamelauncher\\gamelaunchermodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E608295-7899-4460-81A4-73CF5A64A24A}|Fel59GameLauncher\\Fel59GameLauncher.csproj|solutionrelative:fel59gamelauncher\\gamelaunchermodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E608295-7899-4460-81A4-73CF5A64A24A}|Fel59GameLauncher\\Fel59GameLauncher.csproj|e:\\projects\\github\\fel59gamelauncher\\fel59gamelauncher\\fel59gamelauncher\\mouseinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E608295-7899-4460-81A4-73CF5A64A24A}|Fel59GameLauncher\\Fel59GameLauncher.csproj|solutionrelative:fel59gamelauncher\\mouseinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6087C4E1-8808-479E-9F9E-48E797F9C977}|..\\..\\MEngine\\Source\\MEngine\\MEngine\\MEngine\\MEngine.Core.csproj|e:\\projects\\github\\mengine\\source\\mengine\\mengine\\mengine\\modulesystems\\module.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E608295-7899-4460-81A4-73CF5A64A24A}|Fel59GameLauncher\\Fel59GameLauncher.csproj|e:\\projects\\github\\fel59gamelauncher\\fel59gamelauncher\\fel59gamelauncher\\texturemaneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E608295-7899-4460-81A4-73CF5A64A24A}|Fel59GameLauncher\\Fel59GameLauncher.csproj|solutionrelative:fel59gamelauncher\\texturemaneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E608295-7899-4460-81A4-73CF5A64A24A}|Fel59GameLauncher\\Fel59GameLauncher.csproj|e:\\projects\\github\\fel59gamelauncher\\fel59gamelauncher\\fel59gamelauncher\\mouseinputmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E608295-7899-4460-81A4-73CF5A64A24A}|Fel59GameLauncher\\Fel59GameLauncher.csproj|solutionrelative:fel59gamelauncher\\mouseinputmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E608295-7899-4460-81A4-73CF5A64A24A}|Fel59GameLauncher\\Fel59GameLauncher.csproj|e:\\projects\\github\\fel59gamelauncher\\fel59gamelauncher\\fel59gamelauncher\\ui\\uimodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E608295-7899-4460-81A4-73CF5A64A24A}|Fel59GameLauncher\\Fel59GameLauncher.csproj|solutionrelative:fel59gamelauncher\\ui\\uimodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E608295-7899-4460-81A4-73CF5A64A24A}|Fel59GameLauncher\\Fel59GameLauncher.csproj|e:\\projects\\github\\fel59gamelauncher\\fel59gamelauncher\\fel59gamelauncher\\ui\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E608295-7899-4460-81A4-73CF5A64A24A}|Fel59GameLauncher\\Fel59GameLauncher.csproj|solutionrelative:fel59gamelauncher\\ui\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6087C4E1-8808-479E-9F9E-48E797F9C977}|..\\..\\MEngine\\Source\\MEngine\\MEngine\\MEngine\\MEngine.Core.csproj|e:\\projects\\github\\mengine\\source\\mengine\\mengine\\mengine\\modulesystems\\eventbussystems\\eventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6087C4E1-8808-479E-9F9E-48E797F9C977}|..\\..\\MEngine\\Source\\MEngine\\MEngine\\MEngine\\MEngine.Core.csproj|e:\\projects\\github\\mengine\\source\\mengine\\mengine\\mengine\\mengine.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B4DA3F-F3D4-47EF-880C-CE58F870C955}|Solution Items{57B4DA3F-F3D4-47EF-880C-CE58F870C955}|E:\\Projects\\Github\\Fel59Gamelauncher\\Fel59GameLauncher\\FNA\\FNA.sln||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{57B4DA3F-F3D4-47EF-880C-CE58F870C955}|Solution Items{57B4DA3F-F3D4-47EF-880C-CE58F870C955}|solutionrelative:FNA\\FNA.sln||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E608295-7899-4460-81A4-73CF5A64A24A}|Fel59GameLauncher\\Fel59GameLauncher.csproj|e:\\projects\\github\\fel59gamelauncher\\fel59gamelauncher\\fel59gamelauncher\\fel59gamelauncher.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3E608295-7899-4460-81A4-73CF5A64A24A}|Fel59GameLauncher\\Fel59GameLauncher.csproj|solutionrelative:fel59gamelauncher\\fel59gamelauncher.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E608295-7899-4460-81A4-73CF5A64A24A}|Fel59GameLauncher\\Fel59GameLauncher.csproj|e:\\projects\\github\\fel59gamelauncher\\fel59gamelauncher\\fel59gamelauncher\\downloadsystems\\downloadmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E608295-7899-4460-81A4-73CF5A64A24A}|Fel59GameLauncher\\Fel59GameLauncher.csproj|solutionrelative:fel59gamelauncher\\downloadsystems\\downloadmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E608295-7899-4460-81A4-73CF5A64A24A}|Fel59GameLauncher\\Fel59GameLauncher.csproj|e:\\projects\\github\\fel59gamelauncher\\fel59gamelauncher\\fel59gamelauncher\\game0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E608295-7899-4460-81A4-73CF5A64A24A}|Fel59GameLauncher\\Fel59GameLauncher.csproj|solutionrelative:fel59gamelauncher\\game0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E608295-7899-4460-81A4-73CF5A64A24A}|Fel59GameLauncher\\Fel59GameLauncher.csproj|e:\\projects\\github\\fel59gamelauncher\\fel59gamelauncher\\fel59gamelauncher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E608295-7899-4460-81A4-73CF5A64A24A}|Fel59GameLauncher\\Fel59GameLauncher.csproj|solutionrelative:fel59gamelauncher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E608295-7899-4460-81A4-73CF5A64A24A}|Fel59GameLauncher\\Fel59GameLauncher.csproj|e:\\projects\\github\\fel59gamelauncher\\fel59gamelauncher\\fel59gamelauncher\\rendering\\renderingmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E608295-7899-4460-81A4-73CF5A64A24A}|Fel59GameLauncher\\Fel59GameLauncher.csproj|solutionrelative:fel59gamelauncher\\rendering\\renderingmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6087C4E1-8808-479E-9F9E-48E797F9C977}|..\\..\\MEngine\\Source\\MEngine\\MEngine\\MEngine\\MEngine.Core.csproj|e:\\projects\\github\\mengine\\source\\mengine\\mengine\\mengine\\enginecoresystems\\gameinstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6087C4E1-8808-479E-9F9E-48E797F9C977}|..\\..\\MEngine\\Source\\MEngine\\MEngine\\MEngine\\MEngine.Core.csproj|e:\\projects\\github\\mengine\\source\\mengine\\mengine\\mengine\\enginecoresystems\\enginecore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6087C4E1-8808-479E-9F9E-48E797F9C977}|..\\..\\MEngine\\Source\\MEngine\\MEngine\\MEngine\\MEngine.Core.csproj|e:\\projects\\github\\mengine\\source\\mengine\\mengine\\mengine\\modulesystems\\moduleevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6087C4E1-8808-479E-9F9E-48E797F9C977}|..\\..\\MEngine\\Source\\MEngine\\MEngine\\MEngine\\MEngine.Core.csproj|e:\\projects\\github\\mengine\\source\\mengine\\mengine\\mengine\\modulesystems\\modulemaneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Projects\\Github\\Fel59Gamelauncher\\Fel59GameLauncher\\FNA\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FNA\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Projects\\Github\\Fel59Gamelauncher\\Fel59GameLauncher\\FNA\\Directory.Build.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FNA\\Directory.Build.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Module.cs",
+              "DocumentMoniker": "E:\\Projects\\Github\\MEngine\\Source\\MEngine\\MEngine\\MEngine\\ModuleSystems\\Module.cs",
+              "RelativeDocumentMoniker": "..\\..\\MEngine\\Source\\MEngine\\MEngine\\MEngine\\ModuleSystems\\Module.cs",
+              "ToolTip": "E:\\Projects\\Github\\MEngine\\Source\\MEngine\\MEngine\\MEngine\\ModuleSystems\\Module.cs",
+              "RelativeToolTip": "..\\..\\MEngine\\Source\\MEngine\\MEngine\\MEngine\\ModuleSystems\\Module.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T19:07:53.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MEngine.Core.csproj",
+              "DocumentMoniker": "E:\\Projects\\Github\\MEngine\\Source\\MEngine\\MEngine\\MEngine\\MEngine.Core.csproj",
+              "RelativeDocumentMoniker": "..\\..\\MEngine\\Source\\MEngine\\MEngine\\MEngine\\MEngine.Core.csproj",
+              "ToolTip": "E:\\Projects\\Github\\MEngine\\Source\\MEngine\\MEngine\\MEngine\\MEngine.Core.csproj",
+              "RelativeToolTip": "..\\..\\MEngine\\Source\\MEngine\\MEngine\\MEngine\\MEngine.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-21T16:27:11.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MouseInput.cs",
+              "DocumentMoniker": "E:\\Projects\\Github\\Fel59Gamelauncher\\Fel59GameLauncher\\Fel59GameLauncher\\MouseInput.cs",
+              "RelativeDocumentMoniker": "Fel59GameLauncher\\MouseInput.cs",
+              "ToolTip": "E:\\Projects\\Github\\Fel59Gamelauncher\\Fel59GameLauncher\\Fel59GameLauncher\\MouseInput.cs",
+              "RelativeToolTip": "Fel59GameLauncher\\MouseInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T11:00:53.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ui.cs",
+              "DocumentMoniker": "E:\\Projects\\Github\\Fel59Gamelauncher\\Fel59GameLauncher\\Fel59GameLauncher\\Ui\\Ui.cs",
+              "RelativeDocumentMoniker": "Fel59GameLauncher\\Ui\\Ui.cs",
+              "ToolTip": "E:\\Projects\\Github\\Fel59Gamelauncher\\Fel59GameLauncher\\Fel59GameLauncher\\Ui\\Ui.cs",
+              "RelativeToolTip": "Fel59GameLauncher\\Ui\\Ui.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAADwv1oAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T10:56:16.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameLauncherModule.cs",
+              "DocumentMoniker": "E:\\Projects\\Github\\Fel59Gamelauncher\\Fel59GameLauncher\\Fel59GameLauncher\\GameLauncherModule.cs",
+              "RelativeDocumentMoniker": "Fel59GameLauncher\\GameLauncherModule.cs",
+              "ToolTip": "E:\\Projects\\Github\\Fel59Gamelauncher\\Fel59GameLauncher\\Fel59GameLauncher\\GameLauncherModule.cs",
+              "RelativeToolTip": "Fel59GameLauncher\\GameLauncherModule.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAswDQAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T11:15:46.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MouseInputModule.cs",
+              "DocumentMoniker": "E:\\Projects\\Github\\Fel59Gamelauncher\\Fel59GameLauncher\\Fel59GameLauncher\\MouseInputModule.cs",
+              "RelativeDocumentMoniker": "Fel59GameLauncher\\MouseInputModule.cs",
+              "ToolTip": "E:\\Projects\\Github\\Fel59Gamelauncher\\Fel59GameLauncher\\Fel59GameLauncher\\MouseInputModule.cs",
+              "RelativeToolTip": "Fel59GameLauncher\\MouseInputModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T10:51:17.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GameInstance.cs",
+              "DocumentMoniker": "E:\\Projects\\Github\\MEngine\\Source\\MEngine\\MEngine\\MEngine\\EngineCoreSystems\\GameInstance.cs",
+              "RelativeDocumentMoniker": "..\\..\\MEngine\\Source\\MEngine\\MEngine\\MEngine\\EngineCoreSystems\\GameInstance.cs",
+              "ToolTip": "E:\\Projects\\Github\\MEngine\\Source\\MEngine\\MEngine\\MEngine\\EngineCoreSystems\\GameInstance.cs",
+              "RelativeToolTip": "..\\..\\MEngine\\Source\\MEngine\\MEngine\\MEngine\\EngineCoreSystems\\GameInstance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T12:14:09.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DownloadModule.cs",
+              "DocumentMoniker": "E:\\Projects\\Github\\Fel59Gamelauncher\\Fel59GameLauncher\\Fel59GameLauncher\\DownloadSystems\\DownloadModule.cs",
+              "RelativeDocumentMoniker": "Fel59GameLauncher\\DownloadSystems\\DownloadModule.cs",
+              "ToolTip": "E:\\Projects\\Github\\Fel59Gamelauncher\\Fel59GameLauncher\\Fel59GameLauncher\\DownloadSystems\\DownloadModule.cs",
+              "RelativeToolTip": "Fel59GameLauncher\\DownloadSystems\\DownloadModule.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAcwFQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T11:23:39.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UiModule.cs",
+              "DocumentMoniker": "E:\\Projects\\Github\\Fel59Gamelauncher\\Fel59GameLauncher\\Fel59GameLauncher\\Ui\\UiModule.cs",
+              "RelativeDocumentMoniker": "Fel59GameLauncher\\Ui\\UiModule.cs",
+              "ToolTip": "E:\\Projects\\Github\\Fel59Gamelauncher\\Fel59GameLauncher\\Fel59GameLauncher\\Ui\\UiModule.cs",
+              "RelativeToolTip": "Fel59GameLauncher\\Ui\\UiModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T10:50:36.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EventBus.cs",
+              "DocumentMoniker": "E:\\Projects\\Github\\MEngine\\Source\\MEngine\\MEngine\\MEngine\\ModuleSystems\\EventBusSystems\\EventBus.cs",
+              "RelativeDocumentMoniker": "..\\..\\MEngine\\Source\\MEngine\\MEngine\\MEngine\\ModuleSystems\\EventBusSystems\\EventBus.cs",
+              "ToolTip": "E:\\Projects\\Github\\MEngine\\Source\\MEngine\\MEngine\\MEngine\\ModuleSystems\\EventBusSystems\\EventBus.cs",
+              "RelativeToolTip": "..\\..\\MEngine\\Source\\MEngine\\MEngine\\MEngine\\ModuleSystems\\EventBusSystems\\EventBus.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwDIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T20:41:45.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TextureManeger.cs",
+              "DocumentMoniker": "E:\\Projects\\Github\\Fel59Gamelauncher\\Fel59GameLauncher\\Fel59GameLauncher\\TextureManeger.cs",
+              "RelativeDocumentMoniker": "Fel59GameLauncher\\TextureManeger.cs",
+              "ToolTip": "E:\\Projects\\Github\\Fel59Gamelauncher\\Fel59GameLauncher\\Fel59GameLauncher\\TextureManeger.cs",
+              "RelativeToolTip": "Fel59GameLauncher\\TextureManeger.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwB0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T11:09:03.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Projects\\Github\\Fel59Gamelauncher\\Fel59GameLauncher\\Fel59GameLauncher\\Program.cs",
+              "RelativeDocumentMoniker": "Fel59GameLauncher\\Program.cs",
+              "ToolTip": "E:\\Projects\\Github\\Fel59Gamelauncher\\Fel59GameLauncher\\Fel59GameLauncher\\Program.cs",
+              "RelativeToolTip": "Fel59GameLauncher\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T09:54:17.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Fel59GameLauncher.csproj",
+              "DocumentMoniker": "E:\\Projects\\Github\\Fel59Gamelauncher\\Fel59GameLauncher\\Fel59GameLauncher\\Fel59GameLauncher.csproj",
+              "RelativeDocumentMoniker": "Fel59GameLauncher\\Fel59GameLauncher.csproj",
+              "ToolTip": "E:\\Projects\\Github\\Fel59Gamelauncher\\Fel59GameLauncher\\Fel59GameLauncher\\Fel59GameLauncher.csproj",
+              "RelativeToolTip": "Fel59GameLauncher\\Fel59GameLauncher.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-21T16:27:12.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FNA.sln",
+              "DocumentMoniker": "E:\\Projects\\Github\\Fel59Gamelauncher\\Fel59GameLauncher\\FNA\\FNA.sln",
+              "RelativeDocumentMoniker": "FNA\\FNA.sln",
+              "ToolTip": "E:\\Projects\\Github\\Fel59Gamelauncher\\Fel59GameLauncher\\FNA\\FNA.sln",
+              "RelativeToolTip": "FNA\\FNA.sln",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002855|",
+              "WhenOpened": "2025-07-27T11:05:52.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EngineCore.cs",
+              "DocumentMoniker": "E:\\Projects\\Github\\MEngine\\Source\\MEngine\\MEngine\\MEngine\\EngineCoreSystems\\EngineCore.cs",
+              "RelativeDocumentMoniker": "..\\..\\MEngine\\Source\\MEngine\\MEngine\\MEngine\\EngineCoreSystems\\EngineCore.cs",
+              "ToolTip": "E:\\Projects\\Github\\MEngine\\Source\\MEngine\\MEngine\\MEngine\\EngineCoreSystems\\EngineCore.cs",
+              "RelativeToolTip": "..\\..\\MEngine\\Source\\MEngine\\MEngine\\MEngine\\EngineCoreSystems\\EngineCore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T16:35:31.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Game0.cs",
+              "DocumentMoniker": "E:\\Projects\\Github\\Fel59Gamelauncher\\Fel59GameLauncher\\Fel59GameLauncher\\Game0.cs",
+              "RelativeDocumentMoniker": "Fel59GameLauncher\\Game0.cs",
+              "ToolTip": "E:\\Projects\\Github\\Fel59Gamelauncher\\Fel59GameLauncher\\Fel59GameLauncher\\Game0.cs",
+              "RelativeToolTip": "Fel59GameLauncher\\Game0.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAEYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T10:16:44.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RenderingModule.cs",
+              "DocumentMoniker": "E:\\Projects\\Github\\Fel59Gamelauncher\\Fel59GameLauncher\\Fel59GameLauncher\\Rendering\\RenderingModule.cs",
+              "RelativeDocumentMoniker": "Fel59GameLauncher\\Rendering\\RenderingModule.cs",
+              "ToolTip": "E:\\Projects\\Github\\Fel59Gamelauncher\\Fel59GameLauncher\\Fel59GameLauncher\\Rendering\\RenderingModule.cs",
+              "RelativeToolTip": "Fel59GameLauncher\\Rendering\\RenderingModule.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAcwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T10:53:19.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ModuleEvents.cs",
+              "DocumentMoniker": "E:\\Projects\\Github\\MEngine\\Source\\MEngine\\MEngine\\MEngine\\ModuleSystems\\ModuleEvents.cs",
+              "RelativeDocumentMoniker": "..\\..\\MEngine\\Source\\MEngine\\MEngine\\MEngine\\ModuleSystems\\ModuleEvents.cs",
+              "ToolTip": "E:\\Projects\\Github\\MEngine\\Source\\MEngine\\MEngine\\MEngine\\ModuleSystems\\ModuleEvents.cs",
+              "RelativeToolTip": "..\\..\\MEngine\\Source\\MEngine\\MEngine\\MEngine\\ModuleSystems\\ModuleEvents.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T16:35:29.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ModuleManeger.cs",
+              "DocumentMoniker": "E:\\Projects\\Github\\MEngine\\Source\\MEngine\\MEngine\\MEngine\\ModuleSystems\\ModuleManeger.cs",
+              "RelativeDocumentMoniker": "..\\..\\MEngine\\Source\\MEngine\\MEngine\\MEngine\\ModuleSystems\\ModuleManeger.cs",
+              "ToolTip": "E:\\Projects\\Github\\MEngine\\Source\\MEngine\\MEngine\\MEngine\\ModuleSystems\\ModuleManeger.cs",
+              "RelativeToolTip": "..\\..\\MEngine\\Source\\MEngine\\MEngine\\MEngine\\ModuleSystems\\ModuleManeger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T16:35:18.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "app.config",
+              "DocumentMoniker": "E:\\Projects\\Github\\Fel59Gamelauncher\\Fel59GameLauncher\\FNA\\app.config",
+              "RelativeDocumentMoniker": "FNA\\app.config",
+              "ToolTip": "E:\\Projects\\Github\\Fel59Gamelauncher\\Fel59GameLauncher\\FNA\\app.config",
+              "RelativeToolTip": "FNA\\app.config",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-07-27T08:34:50.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Directory.Build.props",
+              "DocumentMoniker": "E:\\Projects\\Github\\Fel59Gamelauncher\\Fel59GameLauncher\\FNA\\Directory.Build.props",
+              "RelativeDocumentMoniker": "FNA\\Directory.Build.props",
+              "ToolTip": "E:\\Projects\\Github\\Fel59Gamelauncher\\Fel59GameLauncher\\FNA\\Directory.Build.props",
+              "RelativeToolTip": "FNA\\Directory.Build.props",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-07-27T08:34:46.674Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
